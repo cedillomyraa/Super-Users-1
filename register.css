@@ -1,0 +1,63 @@
+
+/*Header*/
+header.container {
+    border-bottom: thick solid rgb(8, 105, 196);
+    width: 50%;
+    padding: 2px;
+    text-align: center;
+    }
+.container h1{
+        
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: 4px;
+    }
+.header-title h2{
+    text-transform: uppercase;
+    font-size: 20px;
+    }
+
+nav{
+    padding: 20px;
+    margin-block-end: 50px;
+    text-align: center;
+    font-family: monospace;
+    }
+nav a{
+    letter-spacing: 3px;
+    font-weight: bolder;
+    margin-right: 30px;
+    font-size: 25px;
+    }
+
+body{
+    background-color: rgb(233, 233, 233);
+    font-family: monospace;
+    text-align: center;
+    line-height: 2;
+    
+    border: solid rgb(8, 105, 196);
+    border-width: thick;
+    
+}
+header h1.display-1{
+    text-align: center;
+    font-size: 40px;
+}
+.alert-error{
+    border: 2px dotted black;
+    background: darkred;
+}
+.conrainer{
+    width: 50%;
+    padding: 2px;
+    text-align: center;
+}
+.form{
+    color: rgb(8, 105, 196);
+    font-weight: bold;
+}
+.labels div{
+    padding-bottom: 4px;
+    line-height: 2;
+}
